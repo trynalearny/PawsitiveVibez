@@ -1,1 +1,2 @@
 # PawsitiveVibez
+A pet grooming website project using html css js and php as backend using xamp this project have been created by group of 3.Also the sql dump is provided. The website consists of 7 modules and various feature where a user can add blog the also can book appointment access services and the admin panel is able to manage the user and edit the blog.Using sql query 3 tables have been created user ,appoinemnt, and blog .The website helps the user with user friendly ,accesible and simple yet efficient ui with various facilties to grasp.
